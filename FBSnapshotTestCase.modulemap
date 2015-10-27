@@ -6,10 +6,10 @@ framework module FBSnapshotTestCase {
 
   header "FBSnapshotTestCasePlatform.h"
   header "FBSnapshotTestCase.h"
-
+  header "FBSnapshotTestController.h"
+  
   private header "UIImage+Compare.h"
   private header "UIImage+Diff.h"
   private header "UIImage+Snapshot.h"
-  private header "FBSnapshotTestController.h"
 }
 
